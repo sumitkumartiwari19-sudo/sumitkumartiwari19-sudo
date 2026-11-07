@@ -1,8 +1,8 @@
-[profile-README.md](https://github.com/user-attachments/files/34516228/profile-README.md)
+
 ## Hi there 👋
 <p align="center">
-  <img "![AMPLIFY Music Media](./assets/amplify-logo.svg)" width="260">
-</p>
+  
+
 
 <h1 align="center">SUMIT KUMAR TIWARI</h1>
 <h3 align="center">Developer · App Builder · Web Designer</h3>
