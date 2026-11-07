@@ -1,51 +1,26 @@
-<div align="center">
+# Sumit Kumar Tiwari — Premium Black & Gold GitHub Profile
 
-<img src="assets/amplify-logo.svg" width="170" alt="AMPLIFY Music Media logo">
+## Package contents
+- `index.html` — responsive standalone HTML preview
+- `profile-README.md` — Markdown/HTML for your GitHub profile README
+- `assets/amplify-logo.svg` — original gold AMPLIFY wordmark artwork
 
-# SUMIT KUMAR TIWARI
-### Developer · App Builder · Web Designer
+## A. Publish the GitHub profile README
+1. On GitHub, create a **public** repository named exactly `sumitkumartiwari19-sudo`.
+2. Add `profile-README.md` content to the repository's root `README.md`.
+3. Upload the `assets` folder with `amplify-logo.svg` inside it.
+4. Commit the changes. Your README should appear on your GitHub profile.
 
-Building modern apps, useful tools and digital experiences.
+## B. Publish the HTML preview with GitHub Pages
+1. Create a separate repository, for example `github-profile-preview`.
+2. Upload `index.html` and the complete `assets` folder.
+3. Open **Settings → Pages**.
+4. Under Build and deployment, choose **Deploy from a branch**.
+5. Select branch `main` and folder `/(root)`, then Save.
+6. After deployment, open the Pages URL shown there.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D8B66A?style=for-the-badge)](https://developer-sumit.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-171717?style=for-the-badge&logo=github)](https://github.com/sumitkumartiwari19-sudo)
-
-</div>
-
----
-
-## About Me
-I'm Sumit Kumar Tiwari, a developer interested in building modern apps, useful tools and clean web experiences. I enjoy turning ideas into practical digital products.
-
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [SWAR-Music](https://github.com/sumitkumartiwari19-sudo/SWAR-Music) | Music streaming and offline listening experience | Kotlin |
-| [Netly](https://github.com/sumitkumartiwari19-sudo/Netly) | Modern video downloader project | TypeScript |
-| [SKT-Flow](https://github.com/sumitkumartiwari19-sudo/SKT-Flow) | Music companion app | Kotlin |
-| [SKT-music-player](https://github.com/sumitkumartiwari19-sudo/SKT-music-player) | Minimal web music player | HTML |
-
-## Tech Stack
-`HTML5` `CSS3` `JavaScript` `TypeScript` `Kotlin` `Git` `GitHub`
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitkumartiwari19-sudo&show_icons=true&theme=dark&hide_border=true&title_color=D8B66A&icon_color=D8B66A" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumartiwari19-sudo&layout=compact&theme=dark&hide_border=true&title_color=D8B66A" alt="Top languages">
-
-<img src="https://streak-stats.demolab.com?user=sumitkumartiwari19-sudo&theme=dark&hide_border=true&ring=D8B66A&fire=D8B66A&currStreakLabel=D8B66A" alt="GitHub streak">
-
-</div>
-
-## Connect
-- Portfolio: https://developer-sumit.netlify.app/
-- GitHub: https://github.com/sumitkumartiwari19-sudo
-
----
-
-<div align="center">
-  <sub>AMPLIFY · MUSIC MEDIA — Designed with care by Sumit Kumar Tiwari</sub>
-</div>
+## Before publishing
+- Check that the four project repository names and links in `profile-README.md` are correct. Edit any link that differs from your actual repository name.
+- The HTML preview's language bars are decorative placeholders, not real GitHub statistics.
+- Live stats images in the profile README are served by third-party services. They may occasionally be unavailable or rate-limited.
+- The logo is an original AMPLIFY-style wordmark artwork created for this package; replace it if you have an official brand asset.
